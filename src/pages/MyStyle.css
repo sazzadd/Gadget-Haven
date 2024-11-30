@@ -1,0 +1,20 @@
+.button {
+    background-color: #9013FE;
+    /* Replace with your desired color */
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+
+
+}
+
+.activee {
+    background-color: white;
+    color: #9013FE;
+    border: 1px solid black;
+}
